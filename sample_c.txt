@@ -1,0 +1,4 @@
+COMP H2702 sample file A
+This is a safe synthetic text file for file-triage practice.
+Department: School of Informatics & Cybersecurity
+Status: baseline.

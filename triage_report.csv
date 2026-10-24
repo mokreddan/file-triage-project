@@ -1,0 +1,6 @@
+filename,extension,size_bytes,last_modified,sha256,status,label
+sample_a.txt,.txt,153,2026-10-18 19:45:36,0682153a5a559dbbb265e02db83455d4f8ae7a0121643439055280d289c437ad,KNOWN,Known Baseline Text
+sample_b.txt,.txt,153,2026-10-18 19:45:36,0682153a5a559dbbb265e02db83455d4f8ae7a0121643439055280d289c437ad,KNOWN,Known Baseline Text
+sample_c.txt,.txt,154,2026-10-18 19:45:36,776e6bb134664392f337a18cbb3757a8a9d35a43c874b14334d77fb0e6cc359a,UNKNOWN,No reference match
+sample_d.bin,.bin,2048,2026-10-18 19:45:36,ebdf6e5999be272c66881adf12358e341385ec8f291cecaf293af9fb8b166c54,KNOWN,Known Baseline Binary
+sample_e.bin,.bin,537,2026-10-18 19:45:36,7676611ef9c01f00a97c51181218c37628753ede5705692a3dad54eb68c11450,UNKNOWN,No reference match
